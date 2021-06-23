@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bitbucket-live/static/css/main.593ef81c.chunk.css",
-    "main.js": "/bitbucket-live/static/js/main.612683a8.chunk.js",
-    "main.js.map": "/bitbucket-live/static/js/main.612683a8.chunk.js.map",
+    "main.js": "/bitbucket-live/static/js/main.21f63c3f.chunk.js",
+    "main.js.map": "/bitbucket-live/static/js/main.21f63c3f.chunk.js.map",
     "runtime-main.js": "/bitbucket-live/static/js/runtime-main.69ba38a4.js",
     "runtime-main.js.map": "/bitbucket-live/static/js/runtime-main.69ba38a4.js.map",
     "static/js/2.ed001ca2.chunk.js": "/bitbucket-live/static/js/2.ed001ca2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.69ba38a4.js",
     "static/js/2.ed001ca2.chunk.js",
     "static/css/main.593ef81c.chunk.css",
-    "static/js/main.612683a8.chunk.js"
+    "static/js/main.21f63c3f.chunk.js"
   ]
 }
