@@ -1,0 +1,38 @@
+.sidebarTop{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.sidebar-container{
+    display: block;
+}
+.sidebarlogo{
+    height: 90px;
+    width: 90px;
+}
+.sidebarbtn{
+    height: 30px;
+    width: 170px;
+    background: linear-gradient(180deg, #6989FE 0%, #323E61 100%);
+    border-radius: 8px;
+    border: none;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+.sidebarbtn:active{
+    width: 165px;
+    height: 25px;
+}
+
+.sidebarBottom{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}

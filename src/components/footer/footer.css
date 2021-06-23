@@ -1,0 +1,25 @@
+.footer{
+    height: 100px;
+    border-top: 1px solid #E1E3E6;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text{
+    margin: 0px  50px 0px 0px; 
+    color: #404D61;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+   font-weight: bold;
+   font-size: 32px;
+}
+@media(max-width:375px){
+   
+    .footer-text{
+        font-size: 15px;
+    }
+}
